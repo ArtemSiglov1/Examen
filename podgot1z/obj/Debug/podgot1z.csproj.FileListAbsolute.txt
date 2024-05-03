@@ -1,0 +1,7 @@
+C:\Users\kab31\OneDrive\Рабочий стол\podgot1z\bin\Debug\podgot1z.exe.config
+C:\Users\kab31\OneDrive\Рабочий стол\podgot1z\bin\Debug\podgot1z.exe
+C:\Users\kab31\OneDrive\Рабочий стол\podgot1z\bin\Debug\podgot1z.pdb
+C:\Users\kab31\OneDrive\Рабочий стол\podgot1z\obj\Debug\podgot1z.csproj.AssemblyReference.cache
+C:\Users\kab31\OneDrive\Рабочий стол\podgot1z\obj\Debug\podgot1z.csproj.CoreCompileInputs.cache
+C:\Users\kab31\OneDrive\Рабочий стол\podgot1z\obj\Debug\podgot1z.exe
+C:\Users\kab31\OneDrive\Рабочий стол\podgot1z\obj\Debug\podgot1z.pdb
