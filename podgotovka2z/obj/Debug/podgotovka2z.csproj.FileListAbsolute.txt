@@ -1,0 +1,7 @@
+C:\Users\kab31\OneDrive\Рабочий стол\podgotovka2z\bin\Debug\podgotovka2z.exe.config
+C:\Users\kab31\OneDrive\Рабочий стол\podgotovka2z\bin\Debug\podgotovka2z.exe
+C:\Users\kab31\OneDrive\Рабочий стол\podgotovka2z\bin\Debug\podgotovka2z.pdb
+C:\Users\kab31\OneDrive\Рабочий стол\podgotovka2z\obj\Debug\podgotovka2z.csproj.AssemblyReference.cache
+C:\Users\kab31\OneDrive\Рабочий стол\podgotovka2z\obj\Debug\podgotovka2z.csproj.CoreCompileInputs.cache
+C:\Users\kab31\OneDrive\Рабочий стол\podgotovka2z\obj\Debug\podgotovka2z.exe
+C:\Users\kab31\OneDrive\Рабочий стол\podgotovka2z\obj\Debug\podgotovka2z.pdb
