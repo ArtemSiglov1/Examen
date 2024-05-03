@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\source\repos\exam4z\bin\Debug\exam4z.exe.config
+C:\Users\Kab-35-6\source\repos\exam4z\bin\Debug\exam4z.exe
+C:\Users\Kab-35-6\source\repos\exam4z\bin\Debug\exam4z.pdb
+C:\Users\Kab-35-6\source\repos\exam4z\obj\Debug\exam4z.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\source\repos\exam4z\obj\Debug\exam4z.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\source\repos\exam4z\obj\Debug\exam4z.exe
+C:\Users\Kab-35-6\source\repos\exam4z\obj\Debug\exam4z.pdb
