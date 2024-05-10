@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\source\repos\Exam37\bin\Debug\Exam37.exe.config
+C:\Users\Kab-35-6\source\repos\Exam37\bin\Debug\Exam37.exe
+C:\Users\Kab-35-6\source\repos\Exam37\bin\Debug\Exam37.pdb
+C:\Users\Kab-35-6\source\repos\Exam37\obj\Debug\Exam37.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\source\repos\Exam37\obj\Debug\Exam37.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\source\repos\Exam37\obj\Debug\Exam37.exe
+C:\Users\Kab-35-6\source\repos\Exam37\obj\Debug\Exam37.pdb

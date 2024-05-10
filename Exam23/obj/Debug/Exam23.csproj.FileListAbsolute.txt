@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\source\repos\Exam23\bin\Debug\Exam23.exe.config
+C:\Users\Kab-35-6\source\repos\Exam23\bin\Debug\Exam23.exe
+C:\Users\Kab-35-6\source\repos\Exam23\bin\Debug\Exam23.pdb
+C:\Users\Kab-35-6\source\repos\Exam23\obj\Debug\Exam23.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\source\repos\Exam23\obj\Debug\Exam23.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\source\repos\Exam23\obj\Debug\Exam23.exe
+C:\Users\Kab-35-6\source\repos\Exam23\obj\Debug\Exam23.pdb
