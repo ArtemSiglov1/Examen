@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\source\repos\Exam43\bin\Debug\Exam43.exe.config
+C:\Users\Kab-35-6\source\repos\Exam43\bin\Debug\Exam43.exe
+C:\Users\Kab-35-6\source\repos\Exam43\bin\Debug\Exam43.pdb
+C:\Users\Kab-35-6\source\repos\Exam43\obj\Debug\Exam43.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\source\repos\Exam43\obj\Debug\Exam43.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\source\repos\Exam43\obj\Debug\Exam43.exe
+C:\Users\Kab-35-6\source\repos\Exam43\obj\Debug\Exam43.pdb

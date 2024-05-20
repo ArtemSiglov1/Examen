@@ -26,7 +26,7 @@ namespace Exam42
         }
         public double Sqare()
         {
-            double p=((dynamic)a+b+c)/2;
+            double p=(double)((dynamic)a+ b + c)/2;
             return Math.Sqrt(p * ((dynamic)p - a) * ((dynamic)p - b) * ((dynamic)p - c));
         }
         public string TriangleTrue()
