@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\source\repos\Exam10\bin\Debug\Exam10.exe.config
+C:\Users\Kab-35-6\source\repos\Exam10\bin\Debug\Exam10.exe
+C:\Users\Kab-35-6\source\repos\Exam10\bin\Debug\Exam10.pdb
+C:\Users\Kab-35-6\source\repos\Exam10\obj\Debug\Exam10.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\source\repos\Exam10\obj\Debug\Exam10.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\source\repos\Exam10\obj\Debug\Exam10.exe
+C:\Users\Kab-35-6\source\repos\Exam10\obj\Debug\Exam10.pdb
