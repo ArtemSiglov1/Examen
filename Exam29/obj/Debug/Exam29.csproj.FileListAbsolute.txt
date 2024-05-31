@@ -1,0 +1,7 @@
+D:\115\31,05\Exam29\bin\Debug\Exam29.exe.config
+D:\115\31,05\Exam29\bin\Debug\Exam29.exe
+D:\115\31,05\Exam29\bin\Debug\Exam29.pdb
+D:\115\31,05\Exam29\obj\Debug\Exam29.csproj.AssemblyReference.cache
+D:\115\31,05\Exam29\obj\Debug\Exam29.csproj.CoreCompileInputs.cache
+D:\115\31,05\Exam29\obj\Debug\Exam29.exe
+D:\115\31,05\Exam29\obj\Debug\Exam29.pdb
