@@ -1,0 +1,6 @@
+D:\115\31,05\Exam28\bin\Debug\Exam28.exe.config
+D:\115\31,05\Exam28\bin\Debug\Exam28.exe
+D:\115\31,05\Exam28\bin\Debug\Exam28.pdb
+D:\115\31,05\Exam28\obj\Debug\Exam28.csproj.CoreCompileInputs.cache
+D:\115\31,05\Exam28\obj\Debug\Exam28.exe
+D:\115\31,05\Exam28\obj\Debug\Exam28.pdb
