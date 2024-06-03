@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\Exam9\Exam9\bin\Debug\Exam9.exe.config
+C:\Users\Home\source\repos\Exam9\Exam9\bin\Debug\Exam9.exe
+C:\Users\Home\source\repos\Exam9\Exam9\bin\Debug\Exam9.pdb
+C:\Users\Home\source\repos\Exam9\Exam9\obj\Debug\Exam9.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Exam9\Exam9\obj\Debug\Exam9.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Exam9\Exam9\obj\Debug\Exam9.exe
+C:\Users\Home\source\repos\Exam9\Exam9\obj\Debug\Exam9.pdb
