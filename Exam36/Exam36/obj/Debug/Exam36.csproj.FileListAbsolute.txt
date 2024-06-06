@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\source\repos\Exam36\Exam36\bin\Debug\Exam36.exe.config
+C:\Users\Kab-35-6\source\repos\Exam36\Exam36\bin\Debug\Exam36.exe
+C:\Users\Kab-35-6\source\repos\Exam36\Exam36\bin\Debug\Exam36.pdb
+C:\Users\Kab-35-6\source\repos\Exam36\Exam36\obj\Debug\Exam36.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\source\repos\Exam36\Exam36\obj\Debug\Exam36.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\source\repos\Exam36\Exam36\obj\Debug\Exam36.exe
+C:\Users\Kab-35-6\source\repos\Exam36\Exam36\obj\Debug\Exam36.pdb
